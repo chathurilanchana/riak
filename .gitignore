@@ -1,6 +1,6 @@
 deps/*
 deps/riak_kv/ebin
-!deps/riak_kv
+!deps/riak_kv/*
 rel/riak
 rel/vars/dev*_vars.config
 dev/
